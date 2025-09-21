@@ -28,7 +28,7 @@ O fluxo de trabalho foi estruturado para garantir a qualidade e a robustez do mo
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
--   **Python 3.x**
+-   **Python 3.12**
 -   **Jupyter Notebook** como ambiente de desenvolvimento.
 -   **Pandas** e **NumPy** para manipulação e análise de dados.
 -   **Scikit-learn** para pré-processamento e divisão dos dados.
